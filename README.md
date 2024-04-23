@@ -1,4 +1,6 @@
 # Unix-Linux
+## WSL - sudo
+![image](https://github.com/yngerges-pro/Unix-Linux/assets/102266055/fe3111f4-3b0c-4594-a8e0-ec3f7de56fcc)
 
 ## Awk
 ![Awk pic1](https://github.com/yngerges-pro/Unix-Linux/assets/102266055/cdfbcb43-4545-4fb6-a63c-22e8572fa862)
